@@ -156,10 +156,10 @@ public class ArrayTasks {
         return i + 1;
     }
 
-    private void swap(int x, int y) {
-        int temp = x;
-        x = y;
-        y = temp;
+    private void swap(int a, int b) {
+        int temp = a;
+        a = b;
+        b = temp;
     }
 
     private int[] resize(int[] arr, int element) {
