@@ -1,6 +1,5 @@
 package com.epam.mjc.stage0;
 
-
 /**
  * Here are the tasks for working with the arrays.
  * <p>
